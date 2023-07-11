@@ -1,0 +1,223 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300&family=EB+Garamond&family=Special+Elite&display=swap');
+
+
+
+
+
+form {
+    line-height: 2.5rem;
+    font-size: 0;
+}
+
+form > * {
+    font-size: 1rem;
+}
+
+label {
+    display: inline-block;
+    width: 5em;
+    text-align: right;
+    margin-right: 1em;
+}
+
+input[type="number"] {
+    width: 6em;
+}
+
+input[type="submit"] {
+    position: relative;
+    left: 6em;
+}
+
+
+@media screen and (min-width: 600px) {
+    body {
+        padding: 2rem;
+    }
+}
+
+
+
+
+section{
+    text-align:center;
+}
+table{
+    padding-left:42%;
+}
+tr{
+    text-align:center;
+}
+
+body{
+    text-align:center;
+
+}
+td{
+   
+    
+    
+    text-align: center;
+}
+    
+    
+
+
+p {
+    font-family:"Eb Garamond", serif;
+    text-align:center;
+  
+   font-size:24px;
+}
+
+
+
+li{
+ 
+ 
+  text-align:center; /* creates space moving the lists to the right,*/
+   font-size:20px;  /* text size */
+ 
+ 
+ 
+}
+
+
+
+ 
+
+header {
+    background-image:url(http://homepages.cs.ncl.ac.uk/harold.fellermann/csc8018/ocean_cleanup/resources/ocean.jpg); /* Bringing in the ocean picture*/
+  background-position: center; 
+  position: relative;
+  background-repeat: no-repeat; /* to avoid tiling of the picture*/
+  background-size: cover; /* to fit on the section */
+  height:400px;
+  width:100%;
+  
+  
+
+}
+
+
+footer{
+    background-image:url(http://homepages.cs.ncl.ac.uk/harold.fellermann/csc8018/ocean_cleanup/resources/ocean.jpg); /* Bringing in the ocean picture*/
+    background-position: center; 
+    position: relative;
+    background-repeat: no-repeat; /* to avoid tiling of the picture*/
+    background-size: cover; /* to fit on the section */
+    height:400px;
+    width:100%;
+    text-align:center; /*bottom section to try and align the text over that picture */
+    font-family:"Eb Garamond", serif;
+    color:black;
+    font-size:30px;
+    
+
+}
+
+
+
+
+.Sum {
+ display:none;
+}
+
+.ocean1 h3 {
+ 
+ font-size:30px; 
+}
+
+.rivv1 h3 {
+ font-size:30px;
+ 
+ 
+}
+
+.pl1 h3 {
+ 
+ font-size:30px;
+}
+
+
+
+h2 {
+ 
+    font-family:"Special Elite", serif;
+  text-align:center;
+   font-size:35px;
+   font-weight:normal; /* to make the style not bold */
+  
+
+}
+
+h1 {
+    font-family:"Darker Grotesque", serif;
+  text-align:center;
+   font-size:100px;
+   font-weight:normal;
+   padding-top:3%;
+   color:white;
+   text-shadow: 4px 4px 10px black;
+        
+   font-weight: bold;
+}
+     
+
+   
+
+
+h3 {
+    font-family:"Special Elite", serif;
+   text-align:center;
+   font-size:35px;
+   font-weight:normal;
+   
+    
+}
+
+
+p {
+    font-family:"Eb Garamond", serif;
+   text-align:center;
+   font-size:24px;
+}
+
+figcaption{
+    font-family:"Special Elite", serif;
+    color:gray;
+    font-size:large;
+    text-align:center;
+
+}
+
+
+
+
+
+caption{
+    text-align: center;
+    
+}
+
+#bp{
+    display:table;
+
+}
+
+td{
+    border-bottom: solid 1px black; /*adding the thinner border lines in the table per each row */
+    
+    
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    
+
+}
+
+  
+  
+
